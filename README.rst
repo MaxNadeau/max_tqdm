@@ -1,6 +1,6 @@
 |Logo|
 
-tqdm
+Max's exact copy of tqdm
 ====
 
 |Py-Versions| |Versions| |Conda-Forge-Status| |Docker| |Snapcraft|
